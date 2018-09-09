@@ -14,7 +14,7 @@
     "selectedColor": "#66CCCC",
     "list":[{
       "pagePath": "pages/index/index",
-      "text": "首页",
+      "text": "言过夜半",
       "iconPath":"./image/home.png",
       "selectedIconPath":"./image/home-slt.png"
     },{
